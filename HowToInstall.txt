@@ -1,0 +1,13 @@
+HOW TO INSTALL:
+
+IMPORTANT: ENSURE you install the main releases first, and then apply patches after.
+
+For Example at the time of writing we have TAW_NA_Skins_V2_1.zip 
+as the highest full skin pack and NA_Skins_Patch_V2_6.zip which is a patch to the main skinpack. 
+
+So, you would install V2_1 first and then install the V2_6 patch to bring all your skins up to the
+latest versions. 
+
+To install simply extract the zip files into whichever folder you normally use for your skins. 
+It is highly recommended for you to use a folder in your Saved Games folder and not the main
+DCS World install folder. 
